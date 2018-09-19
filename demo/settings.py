@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'viewflow'
+    'material',
+    'material.frontend',
+    'viewflow',
+    'viewflow.frontend',
+    'demoflow'
 ]
 
 MIDDLEWARE = [
